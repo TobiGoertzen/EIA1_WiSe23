@@ -1,0 +1,19 @@
+#intro1 {position: absolute; top: 10px; left: 20px; width: 500px; height: 180px;}
+
+#intro2 {position: absolute; top: 10px; left: 20px; width: 500px; height: 180px;}
+
+#intro3 {position: absolute; top: 10px; left: 20px; width: 500px; height: 180px;}
+
+#middle1 {position: absolute; top: 10px; left: 400px; width: 500px; height: 180px; background-color: black;}
+
+#middle2 {position: absolute; top: 10px; left: 400px; width: 500px; height: 180px;}
+
+#middle3 {position: absolute; top: 10px; left: 400px; width: 500px; height: 180px;}
+
+#outro1 {position: absolute; top: 10px; left: 780px; width: 500px; height: 180px;}
+
+#outro2 {position: absolute; top: 10px; left: 780px; width: 500px; height: 180px;}
+
+#outro3 {position: absolute; top: 10px; left: 780px; width: 500px; height: 180px;}
+
+html {background-color: grey;}
