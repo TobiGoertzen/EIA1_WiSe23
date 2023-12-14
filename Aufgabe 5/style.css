@@ -1,0 +1,31 @@
+body {
+    background: #1c2841;
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    color: #f0ffff;
+}
+.inputForm__group {
+    width: 680px;
+}
+.inputForm__field {
+    position: absolute;
+    width: 200px;
+    left: 580px;
+    outline: none;
+    font-size: 2.2em;
+    padding: 0 30px;
+    line-height: 80px;
+    border-radius: 10px;
+    border: 2px solid #f0ffff;
+    background: trasparent;
+    z-index: 1111;
+    border: 4px solid #66ff00;
+}
+
+#output {
+    position: absolute;
+    height: 200px;
+    line-height: 80px;
+}
